@@ -1,0 +1,10 @@
+# We place our hosted zones "Authoritative" Here!
+include "/etc/bind/zones.rfc1918";
+
+#  AdBlock and malicious site blocking
+zone "rpz.team-h.ml" IN {
+	type master;
+	file "/etc/bind/db.rpz.team-h.ml";
+	masterfile-format text;
+	allow-query { any; };
+};

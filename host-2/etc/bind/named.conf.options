@@ -1,0 +1,42 @@
+options {
+        # For DNS Caching.
+        directory "/var/cache/bind";
+
+        # Conditional Forwarding.
+        # forwarders {
+        #       8.8.8.8;
+        #  };
+
+        # forward first;
+
+        # Enable DNSSEC Validation.
+        dnssec-validation auto;
+
+        # Don't reveal the version of BIND. 
+        version "NOT AVAILABLE";
+
+        # Bind to TCP/UDP IP4 interface.
+        listen-on { 127.0.0.1; 172.31.37.105; };
+
+        # Bind to TCP/UDP IP6 interface.
+        listen-on-v6 { 2406:da1a:4a1:700::15; };
+
+        # Enable Recursion! Our server is Recurisve and Authoritative, both!
+        recursion yes;
+
+        # Allow Query from anyone on the internet because we also enable UDP:53.
+        # This is because other recursive servers have to find our name server, right?
+        # So, our server has to respond. The communication is over UDP:53.
+        allow-query { any; };
+
+	# Allow no more zone transfers as this is the slave.
+        allow-transfer { none; };
+
+        # Allow only 1 transfer at a time. Just incase.
+        transfers-in 1;
+
+        # Special Ability to block Ads and malicious sites.
+        response-policy {
+                zone "rpz.team-h.ml";
+        };
+};

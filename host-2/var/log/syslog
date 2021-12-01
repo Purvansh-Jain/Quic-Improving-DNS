@@ -1,0 +1,742 @@
+Jun  6 00:00:02 localhost systemd[1]: logrotate.service: Succeeded.
+Jun  6 00:00:02 localhost systemd[1]: Finished Rotate log files.
+Jun  6 00:00:02 localhost systemd[1]: man-db.service: Succeeded.
+Jun  6 00:00:02 localhost systemd[1]: Finished Daily man-db regeneration.
+Jun  6 00:00:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:07:56 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 00:09:01 localhost CRON[219568]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Jun  6 00:09:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:15:26 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 00:16:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:17:01 localhost CRON[219586]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 00:18:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:19:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:20:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:30:22 localhost systemd-networkd[63995]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 00:31:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 00:47:26 localhost systemd-networkd[63995]: message repeated 13 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 00:48:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:14:22 localhost systemd-networkd[63995]: message repeated 21 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 01:15:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:16:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:17:01 localhost CRON[219630]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 01:18:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:19:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:21:46 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 01:22:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:24:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:25:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:26:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:27:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:29:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:30:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:31:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:36:16 localhost systemd-networkd[63995]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 01:37:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:48:32 localhost systemd-networkd[63995]: message repeated 9 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 01:49:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:50:59 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:52:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:54:33 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 01:55:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:57:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:58:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 01:59:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:04:16 localhost systemd-networkd[63995]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:05:31 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:16:22 localhost systemd-networkd[63995]: message repeated 9 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:17:01 localhost CRON[219721]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 02:17:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:18:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:20:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:22:22 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:23:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:29:46 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:30:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:40:32 localhost systemd-networkd[63995]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:41:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:42:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:50:16 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:51:31 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 02:53:56 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 02:55:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:02:31 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:03:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:09:52 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:10:01 localhost CRON[219767]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Jun  6 03:10:59 localhost systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Jun  6 03:10:59 localhost systemd[1]: e2scrub_all.service: Succeeded.
+Jun  6 03:10:59 localhost systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Jun  6 03:11:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:12:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:16:00 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:17:01 localhost CRON[219783]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 03:17:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:22:02 localhost systemd-networkd[63995]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:23:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:25:46 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:26:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:28:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:29:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:30:01 localhost CRON[219802]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /usr/lib/x86_64-linux-gnu/e2fsprogs/e2scrub_all_cron)
+Jun  6 03:30:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:37:42 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:38:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:40:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:41:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:47:28 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:48:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:53:32 localhost systemd-networkd[63995]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:54:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 03:57:26 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 03:58:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:15:56 localhost systemd-networkd[63995]: message repeated 14 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 04:17:01 localhost CRON[219833]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 04:17:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:25:52 localhost systemd-networkd[63995]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 04:27:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:29:30 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 04:30:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:32:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:41:42 localhost systemd-networkd[63995]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 04:42:58 localhost snapd[188713]: storehelpers.go:551: cannot refresh: snap has no updates available: "core", "core18", "lxd"
+Jun  6 04:42:58 localhost snapd[188713]: autorefresh.go:479: auto-refresh: all snaps are up-to-date
+Jun  6 04:43:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:45:32 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 04:46:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:48:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:49:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:50:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:51:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:53:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:54:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:55:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 04:56:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:05:32 localhost systemd-networkd[63995]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:06:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:07:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:16:32 localhost systemd-networkd[63995]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:17:01 localhost CRON[219895]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 05:17:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:20:06 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:21:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:22:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:23:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:24:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:32:12 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:33:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:37:12 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:38:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 05:51:42 localhost systemd-networkd[63995]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 05:52:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:02:32 localhost systemd-networkd[63995]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 06:03:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:09:56 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 06:11:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:13:36 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 06:13:36 localhost systemd[1]: Starting Daily apt upgrade and clean activities...
+Jun  6 06:13:38 localhost systemd[1]: apt-daily-upgrade.service: Succeeded.
+Jun  6 06:13:38 localhost systemd[1]: Finished Daily apt upgrade and clean activities.
+Jun  6 06:14:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:16:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:17:01 localhost CRON[220034]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 06:17:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:18:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:19:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:20:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:21:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:23:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:24:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:25:01 localhost CRON[220062]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun  6 06:25:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:26:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:28:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:28:15 localhost named[199152]: _default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+Jun  6 06:28:16 localhost named[199152]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+Jun  6 06:29:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:30:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:31:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:32:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:34:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:35:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:36:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:37:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:38:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:40:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:41:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:42:28 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:43:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:44:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:46:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:47:01 localhost CRON[220249]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly ))
+Jun  6 06:47:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:48:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:49:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:51:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:52:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:53:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:54:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:56:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:57:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:58:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 06:59:48 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:01:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:02:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:03:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:04:45 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:06:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:07:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:08:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:09:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:10:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:12:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:13:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:14:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:16:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:17:01 localhost CRON[220358]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 07:17:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:18:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:19:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:21:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:22:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:23:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:24:35 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:25:47 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:27:00 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:28:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:29:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:30:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:32:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:33:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:34:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:35:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:36:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:38:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:39:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:40:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:41:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:43:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:44:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:45:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:46:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:47:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:49:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:50:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:51:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:52:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:54:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:55:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:56:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:57:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 07:58:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:00:09 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:01:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:02:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:04:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:05:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:06:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:07:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:08:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:10:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:11:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:12:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:13:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:14:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:16:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:17:01 localhost CRON[220606]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 08:17:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:18:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:20:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:21:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:22:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:23:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:24:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:26:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:27:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:28:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:29:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:31:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:32:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:33:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:34:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:36:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:37:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:38:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:39:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:40:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:42:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:43:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:44:28 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:45:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:46:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:48:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:49:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:50:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:51:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:53:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:54:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:55:40 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:56:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:58:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 08:59:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:00:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:01:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:03:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:04:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:05:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:06:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:07:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:09:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:10:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:11:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:12:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:14:10 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:15:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:16:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:17:01 localhost CRON[220773]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 09:17:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:19:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:20:29 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:21:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:23:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:24:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:25:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:26:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:27:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:29:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:30:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:31:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:32:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:33:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:35:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:36:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:37:34 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:38:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:40:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:41:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:42:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:43:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:45:02 localhost systemd[1]: Starting Cleanup of Temporary Directories...
+Jun  6 09:45:02 localhost systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Jun  6 09:45:02 localhost systemd[1]: Finished Cleanup of Temporary Directories.
+Jun  6 09:45:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:46:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:47:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:49:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:50:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:51:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:52:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:53:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:55:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:56:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:57:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 09:58:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:00:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:01:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:02:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:03:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:04:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:06:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:07:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:08:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:09:45 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:10:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:12:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:13:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:14:38 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:15:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:17:01 localhost CRON[221414]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 10:17:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:18:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:19:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:20:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:21:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:23:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:24:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:25:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:26:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:28:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:29:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:30:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:31:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:33:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:34:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:35:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:36:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:37:58 localhost snapd[188713]: storehelpers.go:551: cannot refresh: snap has no updates available: "core", "core18", "lxd"
+Jun  6 10:37:58 localhost snapd[188713]: autorefresh.go:479: auto-refresh: all snaps are up-to-date
+Jun  6 10:38:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:39:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:40:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:41:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:43:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:44:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:45:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:46:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:48:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:49:11 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:50:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:51:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:51:59 localhost systemd[1]: Starting Message of the Day...
+Jun  6 10:52:00 localhost 50-motd-news[221611]:  * Super-optimized for small spaces - read how we shrank the memory
+Jun  6 10:52:00 localhost 50-motd-news[221611]:    footprint of MicroK8s to make it the smallest full K8s around.
+Jun  6 10:52:00 localhost 50-motd-news[221611]:    https://ubuntu.com/blog/microk8s-memory-optimisation
+Jun  6 10:52:00 localhost systemd[1]: motd-news.service: Succeeded.
+Jun  6 10:52:00 localhost systemd[1]: Finished Message of the Day.
+Jun  6 10:52:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:54:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 10:55:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:02:46 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:03:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:11:22 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:12:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:16:16 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:17:01 localhost CRON[221641]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 11:17:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:19:52 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:21:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:22:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:23:34 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:24:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:26:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:27:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:29:42 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:31:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:37:06 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:38:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:44:22 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:45:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:46:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:50:32 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 11:51:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:52:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:54:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:55:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 11:58:56 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:00:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:02:26 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:03:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:04:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:06:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:15:56 localhost systemd-networkd[63995]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:17:01 localhost CRON[221730]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 12:17:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:19:32 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:20:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:22:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:23:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:24:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:25:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:27:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:28:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:32:08 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:33:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:34:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:35:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:39:26 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:40:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:41:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:43:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:51:42 localhost systemd-networkd[63995]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 12:52:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:54:08 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:55:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 12:56:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:02:51 localhost systemd-networkd[63995]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:04:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:07:46 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:08:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:10:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:11:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:12:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:13:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:15:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:16:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:17:01 localhost CRON[222436]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 13:17:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:19:56 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:21:09 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:21:09 localhost systemd[1]: Starting Daily apt download activities...
+Jun  6 13:21:12 localhost dbus-daemon[410]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.658' (uid=0 pid=222802 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Jun  6 13:21:12 localhost systemd[1]: Starting PackageKit Daemon...
+Jun  6 13:21:12 localhost PackageKit: daemon start
+Jun  6 13:21:12 localhost dbus-daemon[410]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Jun  6 13:21:12 localhost systemd[1]: Started PackageKit Daemon.
+Jun  6 13:21:18 localhost systemd[1]: apt-daily.service: Succeeded.
+Jun  6 13:21:18 localhost systemd[1]: Finished Daily apt download activities.
+Jun  6 13:22:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:24:46 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:26:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:26:17 localhost PackageKit: daemon quit
+Jun  6 13:26:17 localhost systemd[1]: packagekit.service: Succeeded.
+Jun  6 13:27:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:28:30 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:29:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:30:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:32:11 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:35:52 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:37:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:44:26 localhost systemd-networkd[63995]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 13:45:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:46:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:48:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:49:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:50:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:51:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:52:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:54:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:55:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:56:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:57:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 13:59:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:00:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:01:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:02:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:03:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:05:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:06:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:07:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:08:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:09:52 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:11:06 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:12:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:13:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:14:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:16:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:17:01 localhost CRON[223392]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 14:17:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:18:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:20:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:21:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:22:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:23:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:25:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:26:11 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:27:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:28:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:30:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:31:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:32:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:33:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:34:56 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:36:12 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:37:26 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:40:02 localhost systemd-networkd[63995]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 14:41:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:45:02 localhost systemd-networkd[63995]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450]
+Jun  6 14:46:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:47:07 localhost systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:47:07 localhost systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:47:07 localhost systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:47:07 localhost systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:47:07 localhost systemd[223600]: Reached target Paths.
+Jun  6 14:47:08 localhost systemd[223600]: Reached target Timers.
+Jun  6 14:47:08 localhost systemd[223600]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:47:08 localhost systemd[223600]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:47:08 localhost systemd[223600]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:47:08 localhost systemd[223600]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:47:08 localhost systemd[223600]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:47:08 localhost systemd[223600]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:47:08 localhost systemd[223600]: Listening on debconf communication socket.
+Jun  6 14:47:08 localhost systemd[223600]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:47:08 localhost systemd[223600]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:47:08 localhost systemd[223600]: Reached target Sockets.
+Jun  6 14:47:08 localhost systemd[223600]: Reached target Basic System.
+Jun  6 14:47:08 localhost systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:47:08 localhost systemd[1]: Started Session 1144 of user ubuntu.
+Jun  6 14:47:08 localhost systemd[223600]: Reached target Main User Target.
+Jun  6 14:47:08 localhost systemd[223600]: Startup finished in 75ms.
+Jun  6 14:47:36 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:48:24 localhost systemd[1]: session-1144.scope: Succeeded.
+Jun  6 14:48:28 localhost systemd[1]: Started Session 1146 of user ubuntu.
+Jun  6 14:48:46 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:49:32 localhost systemd[1]: session-1146.scope: Succeeded.
+Jun  6 14:49:35 localhost systemd[1]: Started Session 1147 of user ubuntu.
+Jun  6 14:50:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:50:24 localhost systemd[1]: session-1147.scope: Succeeded.
+Jun  6 14:50:34 localhost systemd[1]: Stopping User Manager for UID 1000...
+Jun  6 14:50:34 localhost systemd[223600]: Stopped target Main User Target.
+Jun  6 14:50:34 localhost systemd[223600]: Stopped target Basic System.
+Jun  6 14:50:34 localhost systemd[223600]: Stopped target Paths.
+Jun  6 14:50:34 localhost systemd[223600]: Stopped target Sockets.
+Jun  6 14:50:34 localhost systemd[223600]: Stopped target Timers.
+Jun  6 14:50:34 localhost systemd[223600]: dbus.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed D-Bus User Message Bus Socket.
+Jun  6 14:50:34 localhost systemd[223600]: dirmngr.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed GnuPG network certificate management daemon.
+Jun  6 14:50:34 localhost systemd[223600]: gpg-agent-browser.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:50:34 localhost systemd[223600]: gpg-agent-extra.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:50:34 localhost systemd[223600]: gpg-agent-ssh.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:50:34 localhost systemd[223600]: gpg-agent.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:50:34 localhost systemd[223600]: pk-debconf-helper.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed debconf communication socket.
+Jun  6 14:50:34 localhost systemd[223600]: snapd.session-agent.socket: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Closed REST API socket for snapd user session agent.
+Jun  6 14:50:34 localhost systemd[223600]: Reached target Shutdown.
+Jun  6 14:50:34 localhost systemd[223600]: systemd-exit.service: Succeeded.
+Jun  6 14:50:34 localhost systemd[223600]: Finished Exit the Session.
+Jun  6 14:50:34 localhost systemd[223600]: Reached target Exit the Session.
+Jun  6 14:50:34 localhost systemd[1]: user@1000.service: Succeeded.
+Jun  6 14:50:34 localhost systemd[1]: Stopped User Manager for UID 1000.
+Jun  6 14:50:34 localhost systemd[1]: Stopping User Runtime Directory /run/user/1000...
+Jun  6 14:50:34 localhost systemd[1]: run-user-1000.mount: Succeeded.
+Jun  6 14:50:34 localhost systemd[1]: user-runtime-dir@1000.service: Succeeded.
+Jun  6 14:50:34 localhost systemd[1]: Stopped User Runtime Directory /run/user/1000.
+Jun  6 14:50:34 localhost systemd[1]: Removed slice User Slice of UID 1000.
+Jun  6 14:51:16 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:51:45 localhost systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:51:45 localhost systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:51:45 localhost systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:51:45 localhost systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:51:45 localhost systemd[223961]: Reached target Paths.
+Jun  6 14:51:45 localhost systemd[223961]: Reached target Timers.
+Jun  6 14:51:45 localhost systemd[223961]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:51:45 localhost systemd[223961]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:51:45 localhost systemd[223961]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:51:45 localhost systemd[223961]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:51:45 localhost systemd[223961]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:51:45 localhost systemd[223961]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:51:45 localhost systemd[223961]: Listening on debconf communication socket.
+Jun  6 14:51:45 localhost systemd[223961]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:51:45 localhost systemd[223961]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:51:45 localhost systemd[223961]: Reached target Sockets.
+Jun  6 14:51:45 localhost systemd[223961]: Reached target Basic System.
+Jun  6 14:51:45 localhost systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:51:45 localhost systemd[1]: Started Session 1148 of user ubuntu.
+Jun  6 14:51:45 localhost systemd[223961]: Reached target Main User Target.
+Jun  6 14:51:45 localhost systemd[223961]: Startup finished in 68ms.
+Jun  6 14:51:47 localhost systemd[1]: Stopping nginx - high performance web server...
+Jun  6 14:51:47 localhost systemd[1]: Stopping BIND Domain Name Server...
+Jun  6 14:51:47 localhost systemd[1]: nginx.service: Succeeded.
+Jun  6 14:51:47 localhost systemd[1]: Stopped nginx - high performance web server.
+Jun  6 14:51:47 localhost named[199152]: received control channel command 'stop'
+Jun  6 14:51:47 localhost named[199152]: no longer listening on 127.0.0.1#53
+Jun  6 14:51:47 localhost named[199152]: no longer listening on 172.31.37.105#53
+Jun  6 14:51:47 localhost named[199152]: no longer listening on 2406:da1a:4a1:700::15#53
+Jun  6 14:51:47 localhost named[199152]: shutting down: flushing changes
+Jun  6 14:51:47 localhost named[199152]: stopping command channel on 127.0.0.1#953
+Jun  6 14:51:47 localhost named[199152]: stopping command channel on ::1#953
+Jun  6 14:51:47 localhost named[199152]: exiting
+Jun  6 14:51:47 localhost systemd[1]: named.service: Succeeded.
+Jun  6 14:51:47 localhost systemd[1]: Stopped BIND Domain Name Server.
+Jun  6 14:52:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:52:46 localhost systemd[1]: session-1148.scope: Succeeded.
+Jun  6 14:52:56 localhost systemd[1]: Stopping User Manager for UID 1000...
+Jun  6 14:52:56 localhost systemd[223961]: Stopped target Main User Target.
+Jun  6 14:52:56 localhost systemd[223961]: Stopped target Basic System.
+Jun  6 14:52:56 localhost systemd[223961]: Stopped target Paths.
+Jun  6 14:52:56 localhost systemd[223961]: Stopped target Sockets.
+Jun  6 14:52:56 localhost systemd[223961]: Stopped target Timers.
+Jun  6 14:52:56 localhost systemd[223961]: dbus.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed D-Bus User Message Bus Socket.
+Jun  6 14:52:56 localhost systemd[223961]: dirmngr.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed GnuPG network certificate management daemon.
+Jun  6 14:52:56 localhost systemd[223961]: gpg-agent-browser.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:52:56 localhost systemd[223961]: gpg-agent-extra.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:52:56 localhost systemd[223961]: gpg-agent-ssh.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:52:56 localhost systemd[223961]: gpg-agent.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:52:56 localhost systemd[223961]: pk-debconf-helper.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed debconf communication socket.
+Jun  6 14:52:56 localhost systemd[223961]: snapd.session-agent.socket: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Closed REST API socket for snapd user session agent.
+Jun  6 14:52:56 localhost systemd[223961]: Reached target Shutdown.
+Jun  6 14:52:56 localhost systemd[223961]: systemd-exit.service: Succeeded.
+Jun  6 14:52:56 localhost systemd[223961]: Finished Exit the Session.
+Jun  6 14:52:56 localhost systemd[223961]: Reached target Exit the Session.
+Jun  6 14:52:56 localhost systemd[1]: user@1000.service: Succeeded.
+Jun  6 14:52:56 localhost systemd[1]: Stopped User Manager for UID 1000.
+Jun  6 14:52:56 localhost systemd[1]: Stopping User Runtime Directory /run/user/1000...
+Jun  6 14:52:56 localhost systemd[1]: run-user-1000.mount: Succeeded.
+Jun  6 14:52:56 localhost systemd[1]: user-runtime-dir@1000.service: Succeeded.
+Jun  6 14:52:56 localhost systemd[1]: Stopped User Runtime Directory /run/user/1000.
+Jun  6 14:52:56 localhost systemd[1]: Removed slice User Slice of UID 1000.
+Jun  6 14:53:42 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:55:02 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:55:26 localhost systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:55:26 localhost systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:55:26 localhost systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:55:26 localhost systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:55:26 localhost systemd[224094]: Reached target Paths.
+Jun  6 14:55:26 localhost systemd[224094]: Reached target Timers.
+Jun  6 14:55:26 localhost systemd[224094]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:55:26 localhost systemd[224094]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:55:26 localhost systemd[224094]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:55:26 localhost systemd[224094]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:55:26 localhost systemd[224094]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:55:26 localhost systemd[224094]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:55:26 localhost systemd[224094]: Listening on debconf communication socket.
+Jun  6 14:55:26 localhost systemd[224094]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:55:26 localhost systemd[224094]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:55:26 localhost systemd[224094]: Reached target Sockets.
+Jun  6 14:55:26 localhost systemd[224094]: Reached target Basic System.
+Jun  6 14:55:26 localhost systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:55:26 localhost systemd[1]: Started Session 1150 of user ubuntu.
+Jun  6 14:55:26 localhost systemd[224094]: Reached target Main User Target.
+Jun  6 14:55:26 localhost systemd[224094]: Startup finished in 67ms.
+Jun  6 14:56:21 localhost systemd[1]: session-1150.scope: Succeeded.
+Jun  6 14:56:22 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:56:25 localhost systemd[1]: Started Session 1152 of user ubuntu.
+Jun  6 14:57:32 localhost systemd-networkd[63995]: eth0: DHCPv6 address 2406:da1a:4a1:700::15/128 timeout preferred 150 valid 450
+Jun  6 14:57:33 localhost systemd[1]: session-1152.scope: Succeeded.
+Jun  6 14:57:43 localhost systemd[1]: Stopping User Manager for UID 1000...
+Jun  6 14:57:43 localhost systemd[224094]: Stopped target Main User Target.
+Jun  6 14:57:43 localhost systemd[224094]: Stopped target Basic System.
+Jun  6 14:57:43 localhost systemd[224094]: Stopped target Paths.
+Jun  6 14:57:43 localhost systemd[224094]: Stopped target Sockets.
+Jun  6 14:57:43 localhost systemd[224094]: Stopped target Timers.
+Jun  6 14:57:43 localhost systemd[224094]: dbus.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed D-Bus User Message Bus Socket.
+Jun  6 14:57:43 localhost systemd[224094]: dirmngr.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed GnuPG network certificate management daemon.
+Jun  6 14:57:43 localhost systemd[224094]: gpg-agent-browser.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:57:43 localhost systemd[224094]: gpg-agent-extra.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:57:43 localhost systemd[224094]: gpg-agent-ssh.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:57:43 localhost systemd[224094]: gpg-agent.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:57:43 localhost systemd[224094]: pk-debconf-helper.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed debconf communication socket.
+Jun  6 14:57:43 localhost systemd[224094]: snapd.session-agent.socket: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Closed REST API socket for snapd user session agent.
+Jun  6 14:57:43 localhost systemd[224094]: Reached target Shutdown.
+Jun  6 14:57:43 localhost systemd[224094]: systemd-exit.service: Succeeded.
+Jun  6 14:57:43 localhost systemd[224094]: Finished Exit the Session.
+Jun  6 14:57:43 localhost systemd[224094]: Reached target Exit the Session.
+Jun  6 14:57:43 localhost systemd[1]: user@1000.service: Succeeded.
+Jun  6 14:57:43 localhost systemd[1]: Stopped User Manager for UID 1000.
+Jun  6 14:57:43 localhost systemd[1]: Stopping User Runtime Directory /run/user/1000...
+Jun  6 14:57:43 localhost systemd[1]: run-user-1000.mount: Succeeded.
+Jun  6 14:57:43 localhost systemd[1]: user-runtime-dir@1000.service: Succeeded.
+Jun  6 14:57:43 localhost systemd[1]: Stopped User Runtime Directory /run/user/1000.
+Jun  6 14:57:43 localhost systemd[1]: Removed slice User Slice of UID 1000.
+Jun  6 14:58:10 localhost systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:58:10 localhost systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:58:10 localhost systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:58:10 localhost systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:58:10 localhost systemd[224316]: Reached target Paths.
+Jun  6 14:58:10 localhost systemd[224316]: Reached target Timers.
+Jun  6 14:58:10 localhost systemd[224316]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:58:10 localhost systemd[224316]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:58:10 localhost systemd[224316]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:58:10 localhost systemd[224316]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:58:10 localhost systemd[224316]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:58:10 localhost systemd[224316]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:58:10 localhost systemd[224316]: Listening on debconf communication socket.
+Jun  6 14:58:10 localhost systemd[224316]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:58:10 localhost systemd[224316]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:58:10 localhost systemd[224316]: Reached target Sockets.
+Jun  6 14:58:10 localhost systemd[224316]: Reached target Basic System.
+Jun  6 14:58:10 localhost systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:58:10 localhost systemd[1]: Started Session 1153 of user ubuntu.
+Jun  6 14:58:10 localhost systemd[224316]: Reached target Main User Target.
+Jun  6 14:58:10 localhost systemd[224316]: Startup finished in 68ms.

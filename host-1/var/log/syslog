@@ -1,0 +1,476 @@
+Jun  6 00:00:04 h1 systemd[1]: logrotate.service: Succeeded.
+Jun  6 00:00:04 h1 systemd[1]: Finished Rotate log files.
+Jun  6 00:00:05 h1 systemd[1]: man-db.service: Succeeded.
+Jun  6 00:00:05 h1 systemd[1]: Finished Daily man-db regeneration.
+Jun  6 00:01:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:09:46 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:11:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:12:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:13:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:15:56 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:17:01 h1 CRON[287032]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 00:17:06 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:19:34 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:20:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:22:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:23:16 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:24:26 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:25:36 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:26:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:28:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:29:16 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:30:33 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:33:04 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:34:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:47:56 h1 systemd-networkd[363]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:49:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 00:52:46 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 00:54:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:14:04 h1 systemd-networkd[363]: message repeated 16 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 01:14:20 h1 snapd[254546]: storehelpers.go:551: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core18", "lxd", "snapd"
+Jun  6 01:14:20 h1 snapd[254546]: autorefresh.go:479: auto-refresh: all snaps are up-to-date
+Jun  6 01:15:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:16:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:17:01 h1 CRON[287151]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 01:17:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:19:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:20:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:25:14 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 01:26:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:27:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:28:00 h1 systemd[1]: fwupd.service: Succeeded.
+Jun  6 01:29:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:42:34 h1 systemd-networkd[363]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 01:43:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:44:56 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:46:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:47:26 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:48:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:51:06 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 01:52:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 01:58:36 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 01:59:52 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:02:16 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:03:26 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:09:34 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:10:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:15:46 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:17:01 h1 CRON[287273]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 02:17:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:20:54 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:22:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:26:46 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:28:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 02:53:06 h1 systemd-networkd[363]: message repeated 20 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 02:54:16 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:00:24 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:01:36 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:02:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:02:46 h1 systemd[1]: Starting Daily apt download activities...
+Jun  6 03:02:49 h1 dbus-daemon[408]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.678' (uid=0 pid=287709 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Jun  6 03:02:49 h1 systemd[1]: Starting PackageKit Daemon...
+Jun  6 03:02:49 h1 PackageKit: daemon start
+Jun  6 03:02:49 h1 dbus-daemon[408]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Jun  6 03:02:49 h1 systemd[1]: Started PackageKit Daemon.
+Jun  6 03:02:55 h1 systemd[1]: apt-daily.service: Succeeded.
+Jun  6 03:02:55 h1 systemd[1]: Finished Daily apt download activities.
+Jun  6 03:04:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:06:44 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:07:54 h1 PackageKit: daemon quit
+Jun  6 03:07:54 h1 systemd[1]: packagekit.service: Succeeded.
+Jun  6 03:07:56 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:09:06 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:10:01 h1 CRON[287826]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Jun  6 03:10:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:10:48 h1 systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Jun  6 03:10:48 h1 systemd[1]: e2scrub_all.service: Succeeded.
+Jun  6 03:10:48 h1 systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Jun  6 03:11:36 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:12:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:14:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:15:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:16:26 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:17:01 h1 CRON[287854]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 03:17:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:29:57 h1 systemd-networkd[363]: message repeated 10 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:30:01 h1 CRON[287877]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /usr/lib/x86_64-linux-gnu/e2fsprogs/e2scrub_all_cron)
+Jun  6 03:31:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:32:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:36:04 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:37:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:39:44 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:40:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:54:27 h1 systemd-networkd[363]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:55:17 h1 systemd[1]: Starting Message of the Day...
+Jun  6 03:55:18 h1 50-motd-news[287956]:  * Super-optimized for small spaces - read how we shrank the memory
+Jun  6 03:55:18 h1 50-motd-news[287956]:    footprint of MicroK8s to make it the smallest full K8s around.
+Jun  6 03:55:18 h1 50-motd-news[287956]:    https://ubuntu.com/blog/microk8s-memory-optimisation
+Jun  6 03:55:18 h1 systemd[1]: motd-news.service: Succeeded.
+Jun  6 03:55:18 h1 systemd[1]: Finished Message of the Day.
+Jun  6 03:55:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 03:58:17 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 03:59:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:02:04 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:03:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:04:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:11:44 h1 systemd-networkd[363]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:13:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:14:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:16:34 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:17:01 h1 CRON[288010]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 04:17:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:19:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:21:34 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:22:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:23:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:25:10 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:35:01 h1 systemd-networkd[363]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:36:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 04:58:44 h1 systemd-networkd[363]: message repeated 18 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 04:59:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:01:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:04:44 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:05:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:10:37 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:11:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:13:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:14:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:16:44 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:17:01 h1 CRON[288123]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 05:17:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:24:24 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:25:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:28:07 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:29:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:36:54 h1 systemd-networkd[363]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:37:45 h1 named[260805]: validating dariusforoux.com/A: no valid signature found
+Jun  6 05:37:45 h1 named[260805]: client @0x7f83c04dd1e0 127.0.0.1#50736 (incoming.telemetry.mozilla.org): rpz QNAME NXDOMAIN rewrite incoming.telemetry.mozilla.org/A/IN via incoming.telemetry.mozilla.org.rpz.team-h.ml
+Jun  6 05:38:05 h1 named[260805]: client @0x7f83c0616220 127.0.0.1#50844 (www.google-analytics.com): rpz QNAME NXDOMAIN rewrite www.google-analytics.com/A/IN via www.google-analytics.com.rpz.team-h.ml
+Jun  6 05:38:05 h1 named[260805]: client @0x7f83c0616220 127.0.0.1#50844 (google-analytics.com): rpz QNAME NXDOMAIN rewrite google-analytics.com/NS/IN via google-analytics.com.rpz.team-h.ml
+Jun  6 05:38:07 h1 named[260805]: client @0x7f83c0616220 127.0.0.1#50844 (stats.g.doubleclick.net): rpz QNAME NXDOMAIN rewrite stats.g.doubleclick.net/A/IN via stats.g.doubleclick.net.rpz.team-h.ml
+Jun  6 05:38:07 h1 named[260805]: client @0x7f83c05828d0 127.0.0.1#50780 (www.googletagmanager.com): rpz QNAME NXDOMAIN rewrite www.googletagmanager.com/A/IN via www.googletagmanager.com.rpz.team-h.ml
+Jun  6 05:38:08 h1 named[260805]: client @0x7f83c0616220 127.0.0.1#50844 (googletagmanager.com): rpz QNAME NXDOMAIN rewrite googletagmanager.com/NS/IN via googletagmanager.com.rpz.team-h.ml
+Jun  6 05:38:09 h1 named[260805]: client @0x7f83c05828d0 127.0.0.1#50780 (hexagon-analytics.com): rpz QNAME NXDOMAIN rewrite hexagon-analytics.com/A/IN via hexagon-analytics.com.rpz.team-h.ml
+Jun  6 05:38:12 h1 named[260805]: client @0x7f83c061f610 127.0.0.1#50848 (api2.branch.io): rpz QNAME NXDOMAIN rewrite api2.branch.io/A/IN via api2.branch.io.rpz.team-h.ml
+Jun  6 05:38:13 h1 named[260805]: client @0x7f83c061f610 127.0.0.1#50848 (branch.io): rpz QNAME NXDOMAIN rewrite branch.io/NS/IN via branch.io.rpz.team-h.ml
+Jun  6 05:38:14 h1 named[260805]: client @0x7f83c05828d0 127.0.0.1#50780 (www.dwin1.com): rpz QNAME NXDOMAIN rewrite www.dwin1.com/A/IN via www.dwin1.com.rpz.team-h.ml
+Jun  6 05:38:14 h1 named[260805]: client @0x7f83c04ed540 127.0.0.1#50744 (d.impactradius-event.com): rpz QNAME NXDOMAIN rewrite d.impactradius-event.com/A/IN via d.impactradius-event.com.rpz.team-h.ml
+Jun  6 05:38:14 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (intljs.rmtag.com): rpz QNAME NXDOMAIN rewrite intljs.rmtag.com/A/IN via intljs.rmtag.com.rpz.team-h.ml
+Jun  6 05:38:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:38:14 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (static.ads-twitter.com): rpz QNAME NXDOMAIN rewrite static.ads-twitter.com/A/IN via static.ads-twitter.com.rpz.team-h.ml
+Jun  6 05:38:14 h1 named[260805]: client @0x7f83c04ed540 127.0.0.1#50744 (aax-fe.amazon-adsystem.com): rpz QNAME NXDOMAIN rewrite aax-fe.amazon-adsystem.com/A/IN via aax-fe.amazon-adsystem.com.rpz.team-h.ml
+Jun  6 05:38:15 h1 named[260805]: client @0x7f83c04ed540 127.0.0.1#50744 (ads-twitter.com): rpz QNAME NXDOMAIN rewrite ads-twitter.com/NS/IN via ads-twitter.com.rpz.team-h.ml
+Jun  6 05:38:15 h1 named[260805]: client @0x7f83c04ed540 127.0.0.1#50744 (amazon-adsystem.com): rpz QNAME NXDOMAIN rewrite amazon-adsystem.com/NS/IN via amazon-adsystem.com.rpz.team-h.ml
+Jun  6 05:38:15 h1 named[260805]: client @0x7f83c04ed540 127.0.0.1#50744 (cnv.event.prod.bidr.io): rpz QNAME NXDOMAIN rewrite cnv.event.prod.bidr.io/A/IN via cnv.event.prod.bidr.io.rpz.team-h.ml
+Jun  6 05:38:15 h1 named[260805]: client @0x7f83c05700f0 127.0.0.1#50772 (analytics.twitter.com): rpz QNAME NXDOMAIN rewrite analytics.twitter.com/A/IN via analytics.twitter.com.rpz.team-h.ml
+Jun  6 05:38:15 h1 named[260805]: client @0x7f83c061f610 127.0.0.1#50848 (www.upsellit.com): rpz QNAME NXDOMAIN rewrite www.upsellit.com/A/IN via www.upsellit.com.rpz.team-h.ml
+Jun  6 05:38:16 h1 named[260805]: client @0x7f83c0566d00 127.0.0.1#50768 (idsync.rlcdn.com): rpz QNAME NXDOMAIN rewrite idsync.rlcdn.com/A/IN via idsync.rlcdn.com.rpz.team-h.ml
+Jun  6 05:38:16 h1 named[260805]: client @0x7f83c05828d0 127.0.0.1#50780 (geo.qualaroo.com): rpz QNAME NXDOMAIN rewrite geo.qualaroo.com/A/IN via geo.qualaroo.com.rpz.team-h.ml
+Jun  6 05:38:16 h1 named[260805]: client @0x7f83c0566d00 127.0.0.1#50768 (rlcdn.com): rpz QNAME NXDOMAIN rewrite rlcdn.com/NS/IN via rlcdn.com.rpz.team-h.ml
+Jun  6 05:38:20 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (event.prod.bidr.io): rpz QNAME NXDOMAIN rewrite event.prod.bidr.io/NS/IN via event.prod.bidr.io.rpz.team-h.ml
+Jun  6 05:38:29 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (sc-static.net): rpz QNAME NXDOMAIN rewrite sc-static.net/A/IN via sc-static.net.rpz.team-h.ml
+Jun  6 05:38:29 h1 named[260805]: client @0x7f83c0566d00 127.0.0.1#50768 (match.adsrvr.org): rpz QNAME NXDOMAIN rewrite match.adsrvr.org/A/IN via match.adsrvr.org.rpz.team-h.ml
+Jun  6 05:38:29 h1 named[260805]: client @0x7f83c0566d00 127.0.0.1#50768 (adsrvr.org): rpz QNAME NXDOMAIN rewrite adsrvr.org/NS/IN via adsrvr.org.rpz.team-h.ml
+Jun  6 05:38:35 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (js.intercomcdn.com): rpz QNAME NXDOMAIN rewrite js.intercomcdn.com/A/IN via js.intercomcdn.com.rpz.team-h.ml
+Jun  6 05:38:36 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (browser-http-intake.logs.datadoghq.com): rpz QNAME NXDOMAIN rewrite browser-http-intake.logs.datadoghq.com/A/IN via browser-http-intake.logs.datadoghq.com.rpz.team-h.ml
+Jun  6 05:38:38 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (pixel.tapad.com): rpz QNAME NXDOMAIN rewrite pixel.tapad.com/A/IN via pixel.tapad.com.rpz.team-h.ml
+Jun  6 05:38:39 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (tapad.com): rpz QNAME NXDOMAIN rewrite tapad.com/NS/IN via tapad.com.rpz.team-h.ml
+Jun  6 05:39:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:39:49 h1 named[260805]: client @0x7f83c03f6610 127.0.0.1#50856 (adservice.google.com): rpz QNAME NXDOMAIN rewrite adservice.google.com/A/IN via adservice.google.com.rpz.team-h.ml
+Jun  6 05:39:50 h1 named[260805]: client @0x7f83c0507850 127.0.0.1#50860 (adservice.google.co.in): rpz QNAME NXDOMAIN rewrite adservice.google.co.in/A/IN via adservice.google.co.in.rpz.team-h.ml
+Jun  6 05:39:51 h1 named[260805]: client @0x7f83c04ffd20 127.0.0.1#50752 (googleads.g.doubleclick.net): rpz QNAME NXDOMAIN rewrite googleads.g.doubleclick.net/A/IN via googleads.g.doubleclick.net.rpz.team-h.ml
+Jun  6 05:40:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 05:58:14 h1 systemd-networkd[363]: message repeated 14 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 05:59:26 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:08:04 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:09:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:11:44 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:13:01 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:14:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:14:20 h1 snapd[254546]: storehelpers.go:551: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core18", "lxd", "snapd"
+Jun  6 06:14:20 h1 snapd[254546]: autorefresh.go:479: auto-refresh: all snaps are up-to-date
+Jun  6 06:15:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:16:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:17:01 h1 CRON[288223]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 06:17:47 h1 systemd[1]: Starting Daily apt upgrade and clean activities...
+Jun  6 06:17:49 h1 systemd[1]: apt-daily-upgrade.service: Succeeded.
+Jun  6 06:17:49 h1 systemd[1]: Finished Daily apt upgrade and clean activities.
+Jun  6 06:17:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:19:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:20:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:24:14 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:25:01 h1 CRON[288323]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun  6 06:25:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:26:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:27:44 h1 named[260805]: _default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+Jun  6 06:27:45 h1 named[260805]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+Jun  6 06:27:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:36:14 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:37:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:45:57 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:47:01 h1 CRON[288425]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly ))
+Jun  6 06:47:11 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:50:54 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 06:52:11 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:53:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:54:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:55:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:56:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:58:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 06:59:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:00:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:01:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:16:14 h1 systemd-networkd[363]: message repeated 12 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 07:17:01 h1 CRON[288499]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 07:17:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:18:38 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:21:04 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 07:22:16 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:23:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:34:37 h1 systemd-networkd[363]: message repeated 9 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 07:35:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 07:59:34 h1 systemd-networkd[363]: message repeated 19 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 08:00:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:01:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:03:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:16:37 h1 systemd-networkd[363]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 08:17:01 h1 CRON[288724]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 08:17:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:19:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:20:31 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:25:27 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 08:26:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:29:04 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 08:30:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:37:34 h1 systemd-networkd[363]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 08:38:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:40:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 08:41:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:02:17 h1 systemd-networkd[363]: message repeated 17 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 09:03:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:06:04 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 09:07:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:14:44 h1 systemd-networkd[363]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 09:15:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:17:01 h1 CRON[288844]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 09:17:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:25:57 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 09:27:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:27:54 h1 systemd[1]: Starting Certbot...
+Jun  6 09:27:55 h1 systemd[1]: certbot.service: Succeeded.
+Jun  6 09:27:55 h1 systemd[1]: Finished Certbot.
+Jun  6 09:28:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:29:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:47:34 h1 systemd-networkd[363]: message repeated 14 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 09:48:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:49:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:51:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:52:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:53:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:55:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:56:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:57:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 09:58:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:00:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:01:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:02:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:03:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:04:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:06:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:14:34 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 10:15:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:16:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:17:01 h1 CRON[289281]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 10:18:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:19:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:38:24 h1 systemd-networkd[363]: message repeated 15 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 10:39:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:41:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:42:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:43:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:44:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:46:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:47:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:48:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:50:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:51:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:52:46 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:54:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:55:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:56:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:57:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 10:59:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:00:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:01:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:02:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:05:24 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 11:06:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:16:37 h1 systemd-networkd[363]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 11:17:01 h1 CRON[289556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 11:17:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:20:17 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 11:21:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:22:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:24:04 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:30:24 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 11:31:37 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:36:24 h1 systemd-networkd[363]: message repeated 4 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 11:37:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 11:58:54 h1 systemd-networkd[363]: message repeated 17 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:00:01 h1 CRON[289639]: (root) CMD (test -x /usr/bin/certbot -a \! -d /run/systemd/system && perl -e 'sleep int(rand(43200))' && certbot -q renew)
+Jun  6 12:00:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:06:14 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:07:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:16:04 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:17:01 h1 CRON[289666]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 12:17:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:37:44 h1 systemd-networkd[363]: message repeated 16 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:38:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:44:57 h1 systemd-networkd[363]: message repeated 5 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:46:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:47:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:51:14 h1 systemd-networkd[363]: message repeated 3 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 12:52:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 12:53:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:05:57 h1 systemd-networkd[363]: message repeated 10 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 13:07:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:15:54 h1 systemd-networkd[363]: message repeated 7 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 13:17:01 h1 CRON[289774]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 13:17:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:18:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:20:54 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 13:22:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:23:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:57:34 h1 systemd-networkd[363]: message repeated 28 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 13:58:47 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 13:59:57 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:01:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:02:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:03:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:03:54 h1 named[260805]: validating sl/SOA: no valid signature found
+Jun  6 14:03:54 h1 named[260805]: validating sl/TXT: no valid signature found
+Jun  6 14:03:54 h1 named[260805]: validating sl/NS: no valid signature found
+Jun  6 14:03:54 h1 named[260805]: validating sl/NSEC: no valid signature found
+Jun  6 14:04:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:12:34 h1 systemd-networkd[363]: message repeated 6 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 14:13:43 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:16:14 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 14:17:01 h1 CRON[289897]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun  6 14:17:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:31:17 h1 systemd-networkd[363]: message repeated 11 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 14:32:27 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:34:57 h1 systemd-networkd[363]: message repeated 2 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 14:35:57 h1 systemd[1]: Starting Cleanup of Temporary Directories...
+Jun  6 14:35:57 h1 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Jun  6 14:35:57 h1 systemd[1]: Finished Cleanup of Temporary Directories.
+Jun  6 14:36:14 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:46:14 h1 systemd-networkd[363]: message repeated 8 times: [ eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450]
+Jun  6 14:46:22 h1 systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:46:22 h1 systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:46:22 h1 systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:46:22 h1 systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:46:22 h1 systemd[289971]: Reached target Paths.
+Jun  6 14:46:22 h1 systemd[289971]: Reached target Timers.
+Jun  6 14:46:22 h1 systemd[289971]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:46:22 h1 systemd[289971]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:46:22 h1 systemd[289971]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:46:22 h1 systemd[289971]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:46:22 h1 systemd[289971]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:46:22 h1 systemd[289971]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:46:22 h1 systemd[289971]: Listening on debconf communication socket.
+Jun  6 14:46:22 h1 systemd[289971]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:46:22 h1 systemd[289971]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:46:22 h1 systemd[289971]: Reached target Sockets.
+Jun  6 14:46:22 h1 systemd[289971]: Reached target Basic System.
+Jun  6 14:46:22 h1 systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:46:22 h1 systemd[1]: Started Session 1208 of user ubuntu.
+Jun  6 14:46:22 h1 systemd[289971]: Reached target Main User Target.
+Jun  6 14:46:22 h1 systemd[289971]: Startup finished in 78ms.
+Jun  6 14:47:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:48:34 h1 systemd[1]: session-1208.scope: Succeeded.
+Jun  6 14:48:36 h1 systemd[1]: Started Session 1210 of user ubuntu.
+Jun  6 14:48:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:49:26 h1 systemd[1]: session-1210.scope: Succeeded.
+Jun  6 14:49:36 h1 systemd[1]: Stopping User Manager for UID 1000...
+Jun  6 14:49:36 h1 systemd[289971]: Stopped target Main User Target.
+Jun  6 14:49:36 h1 systemd[289971]: Stopped target Basic System.
+Jun  6 14:49:36 h1 systemd[289971]: Stopped target Paths.
+Jun  6 14:49:36 h1 systemd[289971]: Stopped target Sockets.
+Jun  6 14:49:36 h1 systemd[289971]: Stopped target Timers.
+Jun  6 14:49:36 h1 systemd[289971]: dbus.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed D-Bus User Message Bus Socket.
+Jun  6 14:49:36 h1 systemd[289971]: dirmngr.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed GnuPG network certificate management daemon.
+Jun  6 14:49:36 h1 systemd[289971]: gpg-agent-browser.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:49:36 h1 systemd[289971]: gpg-agent-extra.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:49:36 h1 systemd[289971]: gpg-agent-ssh.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:49:36 h1 systemd[289971]: gpg-agent.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:49:36 h1 systemd[289971]: pk-debconf-helper.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed debconf communication socket.
+Jun  6 14:49:36 h1 systemd[289971]: snapd.session-agent.socket: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Closed REST API socket for snapd user session agent.
+Jun  6 14:49:36 h1 systemd[289971]: Reached target Shutdown.
+Jun  6 14:49:36 h1 systemd[289971]: systemd-exit.service: Succeeded.
+Jun  6 14:49:36 h1 systemd[289971]: Finished Exit the Session.
+Jun  6 14:49:36 h1 systemd[289971]: Reached target Exit the Session.
+Jun  6 14:49:36 h1 systemd[1]: user@1000.service: Succeeded.
+Jun  6 14:49:36 h1 systemd[1]: Stopped User Manager for UID 1000.
+Jun  6 14:49:36 h1 systemd[1]: Stopping User Runtime Directory /run/user/1000...
+Jun  6 14:49:36 h1 systemd[1]: run-user-1000.mount: Succeeded.
+Jun  6 14:49:36 h1 systemd[1]: user-runtime-dir@1000.service: Succeeded.
+Jun  6 14:49:36 h1 systemd[1]: Stopped User Runtime Directory /run/user/1000.
+Jun  6 14:49:36 h1 systemd[1]: Removed slice User Slice of UID 1000.
+Jun  6 14:50:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:51:24 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:51:32 h1 systemd[1]: Created slice User Slice of UID 1000.
+Jun  6 14:51:32 h1 systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jun  6 14:51:32 h1 systemd[1]: Finished User Runtime Directory /run/user/1000.
+Jun  6 14:51:32 h1 systemd[1]: Starting User Manager for UID 1000...
+Jun  6 14:51:32 h1 systemd[290242]: Reached target Paths.
+Jun  6 14:51:32 h1 systemd[290242]: Reached target Timers.
+Jun  6 14:51:32 h1 systemd[290242]: Starting D-Bus User Message Bus Socket.
+Jun  6 14:51:32 h1 systemd[290242]: Listening on GnuPG network certificate management daemon.
+Jun  6 14:51:32 h1 systemd[290242]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jun  6 14:51:32 h1 systemd[290242]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jun  6 14:51:32 h1 systemd[290242]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jun  6 14:51:32 h1 systemd[290242]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jun  6 14:51:32 h1 systemd[290242]: Listening on debconf communication socket.
+Jun  6 14:51:32 h1 systemd[290242]: Listening on REST API socket for snapd user session agent.
+Jun  6 14:51:32 h1 systemd[290242]: Listening on D-Bus User Message Bus Socket.
+Jun  6 14:51:32 h1 systemd[290242]: Reached target Sockets.
+Jun  6 14:51:32 h1 systemd[290242]: Reached target Basic System.
+Jun  6 14:51:32 h1 systemd[1]: Started User Manager for UID 1000.
+Jun  6 14:51:32 h1 systemd[1]: Started Session 1211 of user ubuntu.
+Jun  6 14:51:32 h1 systemd[290242]: Reached target Main User Target.
+Jun  6 14:51:32 h1 systemd[290242]: Startup finished in 79ms.
+Jun  6 14:51:37 h1 systemd[1]: Stopping nginx - high performance web server...
+Jun  6 14:51:37 h1 systemd[1]: Stopping BIND Domain Name Server...
+Jun  6 14:51:37 h1 systemd[1]: nginx.service: Succeeded.
+Jun  6 14:51:37 h1 systemd[1]: Stopped nginx - high performance web server.
+Jun  6 14:51:37 h1 named[260805]: received control channel command 'stop'
+Jun  6 14:51:37 h1 named[260805]: no longer listening on 127.0.0.1#53
+Jun  6 14:51:37 h1 named[260805]: no longer listening on 172.31.44.223#53
+Jun  6 14:51:37 h1 named[260805]: no longer listening on 2406:da1a:d19:3d02:18af:b81c:e462:79f8#53
+Jun  6 14:51:37 h1 named[260805]: shutting down: flushing changes
+Jun  6 14:51:37 h1 named[260805]: stopping command channel on 127.0.0.1#953
+Jun  6 14:51:37 h1 named[260805]: stopping command channel on ::1#953
+Jun  6 14:51:37 h1 named[260805]: exiting
+Jun  6 14:51:37 h1 systemd[1]: named.service: Succeeded.
+Jun  6 14:51:37 h1 systemd[1]: Stopped BIND Domain Name Server.
+Jun  6 14:52:34 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:52:43 h1 systemd[1]: session-1211.scope: Succeeded.
+Jun  6 14:52:48 h1 systemd[1]: Started Session 1213 of user ubuntu.
+Jun  6 14:53:44 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:54:54 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:56:07 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:56:11 h1 systemd[1]: session-1213.scope: Succeeded.
+Jun  6 14:56:20 h1 systemd[1]: Started Session 1214 of user ubuntu.
+Jun  6 14:56:46 h1 systemd[1]: Started Session 1215 of user ubuntu.
+Jun  6 14:56:54 h1 systemd[1]: session-1215.scope: Succeeded.
+Jun  6 14:57:17 h1 systemd-networkd[363]: eth0: DHCPv6 address 2406:da1a:d19:3d02:18af:b81c:e462:79f8/128 timeout preferred 150 valid 450
+Jun  6 14:57:33 h1 systemd[1]: session-1214.scope: Succeeded.
+Jun  6 14:57:37 h1 systemd[1]: Started Session 1216 of user ubuntu.
